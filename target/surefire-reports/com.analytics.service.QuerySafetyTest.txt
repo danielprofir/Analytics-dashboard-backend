@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.analytics.service.QuerySafetyTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.545 s - in com.analytics.service.QuerySafetyTest

@@ -1,0 +1,14 @@
+com\analytics\dto\QueryResponse.class
+com\analytics\config\DataSourceConfig$1.class
+com\analytics\config\DataSourceConfig.class
+com\analytics\entity\StoredQuery.class
+com\analytics\AnalyticsBackendApplication.class
+com\analytics\repository\StoredQueryRepository.class
+com\analytics\dto\QueryRequest.class
+com\analytics\service\QueryService.class
+com\analytics\controller\QueryController.class
+com\analytics\repository\PassengerRepository.class
+com\analytics\config\CacheConfig.class
+com\analytics\entity\Passenger.class
+com\analytics\service\QueryExecutionService.class
+com\analytics\config\DataLoader.class

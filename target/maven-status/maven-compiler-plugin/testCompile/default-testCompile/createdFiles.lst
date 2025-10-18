@@ -1,0 +1,4 @@
+com\analytics\controller\QueryControllerTest.class
+com\analytics\service\QuerySafetyTest.class
+com\analytics\integration\QueryIntegrationTest.class
+com\analytics\service\QueryServiceTest.class
